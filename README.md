@@ -56,4 +56,9 @@ python gui_converter.py
 Натисни кнопку °C → °F або °F → °C
 
 Результат з’явиться у вікні
+
+---
+
+Screenshots
+
 <img width="628" height="539" alt="зображення" src="https://github.com/user-attachments/assets/6d25dde4-4563-4234-9b03-459879e4381f" />
