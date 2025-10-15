@@ -28,7 +28,9 @@
 git clone https://github.com/Laucsmeee/PythonProject.git
 ```
 Перейти в папку проєкту:
+```bash
 cd PythonProject
+```
 Usage
 Консольна версія
 
